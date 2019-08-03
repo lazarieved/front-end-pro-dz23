@@ -1,0 +1,17 @@
+.for_box{
+    width: 1200px;
+    height: 240px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.block_box{
+    margin: 20px;
+    width: 200px;
+    height: 200px;
+    background-color: green;
+}
+
+.block_box_red{
+    background-color: red;
+}
